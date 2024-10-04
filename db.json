@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "a3af",
+      "title": "MERN Stack Developer",
+      "content": "Frontend & Backend    Skills: HTML, CSS, TAILWINDCSS, JAVASCRIPT, REACT.JS, REACT HOOKS, EXPRESS.JS, NODE.JS, MONGODB, GIT, GITHUB"
+    },
+    {
+      "id": "afac",
+      "title": "CRUD OPERATION",
+      "content": "This project is Frontend , i'm using Html/XML , TailwindCSS and JavaScript Frame work : React and using React hooks , Mobile view also set it .Please check it click the Button Add Delete and  Update "
+    }
+  ]
+}
